@@ -1,0 +1,2 @@
+/usr/local/bin/llvm-ar qc libCommon.a CMakeFiles/Common.dir/BaseApplication.cpp.o CMakeFiles/Common.dir/main.cpp.o
+/usr/local/bin/llvm-ranlib libCommon.a
